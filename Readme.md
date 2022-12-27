@@ -1,3 +1,4 @@
+I no longer use this project and do not maintain the code.
 
 # metalsmith-metadata
 
